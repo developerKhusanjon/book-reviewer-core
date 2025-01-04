@@ -1,2 +1,2 @@
-# book-reviewer-core
-Sample project using AWS Lambda Function with Spring and LocalStack
+# book-reviewer
+All book reviews and analysis
